@@ -1,5 +1,7 @@
 # opentelemetry-auto-instrumentations
 
+此包已弃用
+
 TachyBase 专属的 OpenTelemetry 自动插桩库
 
 TODO: 
